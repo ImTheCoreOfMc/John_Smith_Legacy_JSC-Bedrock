@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "John Smith Legacy - JimStoneCraft Edition Resource Pack - Ported by NoobTaco",
+        "name": "John Smith Legacy - JSC",
+        "uuid": "33e924fa-ea8a-4830-b4c2-76fa107758c0",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "John Smith Legacy - JimStoneCraft Edition Resource Pack - Ported by NoobTaco",
+            "type": "resources",
+            "uuid": "5134755f-ae81-411e-b1a2-1130e381703e",
+            "version": [0, 0, 1]
+        }
+    ]
+}
