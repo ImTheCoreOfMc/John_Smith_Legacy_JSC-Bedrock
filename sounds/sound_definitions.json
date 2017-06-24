@@ -1,0 +1,8 @@
+{
+   "random.levelup": {
+    "category": "player",
+    "sounds": [
+      "sounds/random/levelup"
+    ]
+  }
+}
