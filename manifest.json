@@ -4,14 +4,14 @@
         "description": "Ported by NoobTaco for Bedrock",
         "name": "John Smith Legacy - JSC v1.12.0v1",
         "uuid": "33e924fa-ea8a-4830-b4c2-76fa107758c0",
-        "version": [0, 0, 1]
+        "version": [0, 0, 2]
     },
     "modules": [
         {
             "description": "John Smith Legacy - JSC v1.12.0v1",
             "type": "resources",
             "uuid": "5134755f-ae81-411e-b1a2-1130e381703e",
-            "version": [0, 0, 1]
+            "version": [0, 0, 2]
         }
     ]
 }
